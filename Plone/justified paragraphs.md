@@ -10,18 +10,6 @@
 <p style="text-align: justify;">
 ```
 
-## Example
-
-If your paragraph looks like this:
-```
-This is my paragraph text that I want to justify.
-```
-
-It should become:
-```html
-<p style="text-align: justify;">This is my paragraph text that I want to justify.</p>
-```
-
 ## Note
 
 Repeat this for each paragraph you want to justify. Make sure the opening `<p>` tag matches with a closing `</p>` tag at the end of the paragraph.
