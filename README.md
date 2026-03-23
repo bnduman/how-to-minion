@@ -5,7 +5,7 @@ A collection of practical guides for BCDSS tools and workflows.
 ## Contents
 
 ### Plone
-- [Justify Text Paragraphs](plone/plone-justified.md)
+- [Justify Text Paragraphs](Plone/justified paragraphs.md)
 - [Create a Page](#) *(coming soon)*
 - [Add Events](#) *(coming soon)*
 - [Manage Images](#) *(coming soon)*
