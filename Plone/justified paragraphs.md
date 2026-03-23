@@ -14,4 +14,4 @@
 
 Repeat this for each paragraph you want to justify. Make sure the opening `<p>` tag matches with a closing `</p>` tag at the end of the paragraph.
 
-![Screenshot](/plone-images/plone-justified.png)
+![Screenshot](plone-images/plone-justified.png)
