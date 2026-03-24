@@ -33,9 +33,9 @@ The URL should end in `.xml` format (example: `https://rss.dw.com/xml/rss-en-all
 Plone will now automatically pull and display the latest items from that RSS feed.
 
 ---
-![Screenshot](/plone-images/howto%20rss1.png)
-![Screenshot](/plone-images/howto%20rss2.png)
-![Screenshot](/plone-images/howto%20rss3.png)
+![Screenshot](plone-images/howto%20rss1.png)
+![Screenshot](plone-images/howto%20rss2.png)
+![Screenshot](plone-images/howto%20rss3.png)
 ## Tips
 
 - Always verify the RSS URL ends with `.xml`
