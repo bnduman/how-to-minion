@@ -23,15 +23,15 @@ Anchors are links that automatically scroll to a specific section of a page when
 2. Click the **anchor icon** in the toolbar (looks like a link/chain symbol)
 3. Give the anchor a **name** (no spaces, use hyphens: `section-one`, `introduction`, etc.)
 4. Click **OK**
-[screenshot](Plone/plone-images/anchor1)
+[screenshot](plone-images/anchor1)
 ### 2. Create a Link to the Anchor
 
 1. Select the text you want to make clickable
 2. Click the **link icon** in the toolbar
 3. On the right hand side, find "Show Anchors"
 4. If you have succesfully created anchor/s, they will appear here as a list
-[screenshot](Plone/plone-images/anchor2)
-[screenshot](Plone/plone-images/anchor3)
+[screenshot](plone-images/anchor2)
+[screenshot](plone-images/anchor3)
 
 ### 3. Save
 
