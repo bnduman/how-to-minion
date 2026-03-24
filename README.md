@@ -8,7 +8,7 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Justify Text Paragraphs](Plone/justified%20paragraphs.md)
 - [Adding News and Events](Plone/adding%20news%20and%20events.md) *(coming soon)*
 - [Troubleshooting News and Events](Plone/troubleshooting%20news%20and%20events.md) *(coming soon)*
-- [Using Anchors](Plone/using%20anchor.md) *(coming soon)*
+- [Using Anchors](Plone/anchors.md)
 - [Using RSS](Plone/RSS.md)
 - [Using iFrames](Plone/using%20iframe.md) *(coming soon)*
 - [Creating Business Cards](Plone/making%20business%20card.md) *(coming soon)*
