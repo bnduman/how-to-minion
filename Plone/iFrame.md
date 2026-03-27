@@ -5,7 +5,7 @@ An **iFrame** displays content, mainly PDF, from a given URL directly inside a w
 We have never used this and I don't see why we ever would. But it is there, and we know about it!
 
 ### Important restriction
-- The URL **must contain `uni-bonn`**
+- The item **must be uploaded on plone**
 - External sources are blocked for security reasons
 
 
