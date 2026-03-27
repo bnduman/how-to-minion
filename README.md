@@ -9,7 +9,7 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Adding News and Events](Plone/news-events.md)
 - [Using Anchors](Plone/anchors.md)
 - [Using RSS](Plone/RSS.md)
-- [Using iFrames](Plone/using%20iframe.md) *(coming soon)*
+- [Using iFrames](Plone/iframe.md)
 - [Creating Business Cards](Plone/making%20business%20card.md) *(coming soon)*
 - [Adding Footer Links](Plone/adding%20footer%20links.md) *(coming soon)*
 - [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
