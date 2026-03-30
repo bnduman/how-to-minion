@@ -19,7 +19,7 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Sending Events to Uni Bonn Main Page](Events/sending%20an%20event%20to%20uni%20bonn%20mainpage.md) *(coming soon)*
 
 ### Blog
-- [Getting Started with Blog](#) *(coming soon)*
+- [Getting Started with Blog](Blog/blog-stuff.md)
 
 ### Social Media
 - [Account Handles and Passwords](Social%20Media/our%20account%20handles%20and%20passwords.md) *(coming soon)*
