@@ -11,7 +11,7 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Using RSS](Plone/RSS.md)
 - [Using iFrames](Plone/iFrame.md)
 - [Creating Business Cards](Plone/business-cards.md)
-- [Adding Footer Links](Plone/adding%20footer%20links.md) *(coming soon)*
+- [Adding Footer Links](Plone/footer-links.md)
 - [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
 
 ### Events
