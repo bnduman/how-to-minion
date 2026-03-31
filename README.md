@@ -18,7 +18,7 @@ A collection of practical guides for BCDSS tools and workflows.
 
 ### Media Management
 - [Exporting to PNG or PDF](Media%20Management/convert-png-pdf.md)
-- [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
+- [Adding Subtitles to Videos](Media%20Management/subtitles.md)
 
 ---
 
