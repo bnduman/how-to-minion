@@ -50,7 +50,7 @@ Clipchamp doesn't let you add custom subtitles directly. To translate subtitles,
 1. Open **DaVinci Resolve**
 2. Click **"New Project"**
 
-![Screenshot](images/davinci1.png)
+![Screenshot](media-images/davinci1.png)
 
 ### Step 2: Add Your Files
 
@@ -58,21 +58,21 @@ Clipchamp doesn't let you add custom subtitles directly. To translate subtitles,
 2. Drag your **translated .srt file** into the **Media Pool**
 3. If asked about frame rate, just click **"Yes"** and continue
 
-![Screenshot](images/davinci2.png)
+![Screenshot](media-images/davinci2.png)
 
 ### Step 3: Add to Timeline
 
 1. Drag the **video** to the timeline (bottom editing area)
 2. Drag the **subtitle file** to the timeline below the video
 
-![Screenshot](images/davinci3.png)
+![Screenshot](media-images/davinci3.png)
 
 ### Step 4: Sync Subtitles
 
 The subtitles should match the video automatically. If they don't:
 - Drag the subtitle element left or right on the timeline until it lines up with the video
 
-![Screenshot](images/davinci4.png)
+![Screenshot](media-images/davinci4.png)
 
 ### Step 5: Export with Subtitles
 
@@ -83,6 +83,6 @@ The subtitles should match the video automatically. If they don't:
 5. Make sure it's clicked and the correct subtitle track is selected
 6. Click **"Add to Render Queue"**
 7. On the right side, click **"Render All"**
-![Screenshot](images/davinci5.png)
+![Screenshot](media-images/davinci5.png)
 Your video with subtitles will now be created.
 ---
