@@ -5,6 +5,7 @@ A collection of practical guides for BCDSS tools and workflows.
 ## Contents
 
 ### Plone
+- [Plone Etiquette](plone-etiquette.md)
 - [Justify Text Paragraphs](Plone/justified%20paragraphs.md)
 - [Adding News and Events](Plone/news-events.md)
 - [Using Anchors](Plone/anchors.md)
@@ -35,4 +36,3 @@ If you have questions or spot an error, let me know and I'll update the guide.
 ## Last Updated
 
 March 2026
-"C:\Users\BCDSSStudent\Downloads\git\how-to-minion\Media Management\convert-png-pdf"
