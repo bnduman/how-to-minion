@@ -8,7 +8,7 @@ Plone is the software that runs the BCDSS website. It's where you go to add, edi
 - Adding news items and events
 - Uploading images, PDFs, and other files
 
-# Finding Your Way Around
+## Finding Your Way Around
 
 ## The Toolbar on the Left
 
@@ -52,7 +52,6 @@ Click **Contents** in the toolbar to see everything inside the current section. 
 
 Think of it like looking inside a folder on your computer.
 
-
 ---
 
 ## How Pages Are Organized
@@ -74,6 +73,4 @@ Home
 Every page lives inside a folder. When you create a new page, it goes into whatever folder you're currently in. This is important to keep in mind: always navigate to the correct section **before** you create something new.
 
 ---
-
-
 

@@ -22,10 +22,7 @@ Make sure you're in the right section of the website. If you want to add a page 
 
 ---
 
-
----
-
-##  Write Your Content
+## Write Your Content
 
 Below the title, you'll see the **text editor**. This is where you write the body of your page. It works similarly to a basic word processor.
 
@@ -38,7 +35,7 @@ You can:
 
 ---
 
-## Step 5: Save Your Page
+## Save Your Page
 
 See the green tick on the bottom of your screen. Move your mouse over it, find the option with 4 boxes in the menu that appears.
 Click!

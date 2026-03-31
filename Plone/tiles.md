@@ -91,7 +91,7 @@ Creates an image slideshow that visitors can click or swipe through. Use this fo
 
 ### Spacer-Tile
 
-Adds empty vertical space between other tiles. Use this to create breathing room between sections. Don't overdo it, but a little spacing can make a page much easier to read. You can extend ih horizontally as well as vertically.
+Adds empty vertical space between other tiles. Use this to create breathing room between sections. Don't overdo it, but a little spacing can make a page much easier to read. You can extend it horizontally as well as vertically.
 
 ---
 
@@ -129,7 +129,6 @@ Embeds an interactive map on the page. Use this to show a location (e.g. the ven
 
 Embeds external content from another website inside your page. The content appears as if it's part of your page, but it's actually loaded from elsewhere. Use this for embedding forms, surveys, external tools, or interactive content. See [Using iFrames](iFrame.md).
 
-
 ---
 
 ### RSS
@@ -153,13 +152,6 @@ Embeds a search bar connected to the University of Bonn's Bonnus catalogue (the 
 ### Teaser
 
 Creates a preview card that links to another page or piece of content. It typically shows a thumbnail image, a title, and a short summary. Use this to highlight or promote specific content (e.g. "Featured Project" or "Upcoming Event") and encourage visitors to click through.
+We haven't utilized this yet.
 
 ---
-
-## Quick Tips
-
-- **Start with the basics.** Most pages only need a combination of Text, Image, and Headlines tiles.
-- **Don't use too many tile types on one page.** Keep it simple. A page with 10 different tile types can feel cluttered.
-- **Use Spacer and Line tiles sparingly** to create visual structure without overdoing it.
-- **Always preview your page** before publishing to see how the tiles look together.
-- **When in doubt, use a Text tile.** It's the most flexible and familiar option.

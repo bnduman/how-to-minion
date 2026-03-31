@@ -36,6 +36,9 @@ Plone will now automatically pull and display the latest items from that RSS fee
 ![Screenshot](plone-images/howto%20rss1.png)
 ![Screenshot](plone-images/howto%20rss2.png)
 ![Screenshot](plone-images/howto%20rss3.png)
+
+---
+
 ## Tips
 
 - Always verify the RSS URL ends with `.xml`

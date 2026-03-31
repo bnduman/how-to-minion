@@ -65,7 +65,10 @@ Anything tagged with these labels will automatically appear in the news collecti
    - `JCMML`
 3. Make sure the tag matches exactly (case-sensitive)
 
+### 3. Save
+
 Save! Always let Cecile or Laura take a look before making it public.
+
 ---
 
 ## How to Add News

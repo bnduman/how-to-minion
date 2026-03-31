@@ -2,9 +2,10 @@
 
 ## What are Anchors?
 
-Anchors are links that automatically scroll to a specific section of a page when clicked. They're useful for long pages with multiple sections—readers can jump directly to the content they need.
+Anchors are links that automatically scroll to a specific section of a page when clicked. They're useful for long pages with multiple sections, so readers can jump directly to the content they need.
 
 **Example:** We make heavy use of it on this page: [International Partners of the BCDSS](https://www.dependency.uni-bonn.de/en/research/strategic-partners/international-institutional-cooperation-partners)
+
 ---
 
 ## How Anchors Work
