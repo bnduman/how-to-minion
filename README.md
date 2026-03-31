@@ -12,7 +12,6 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Using iFrames](Plone/iFrame.md)
 - [Creating Business Cards](Plone/business-cards.md)
 - [Adding Footer Links](Plone/footer-links.md)
-- [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
 
 ### Events
 - [Event Promotion Checklist](Events/event%20promotion%20checklist.md) *(coming soon)*
@@ -24,8 +23,9 @@ A collection of practical guides for BCDSS tools and workflows.
 ### Social Media
 - [Account Handles and Passwords](Social%20Media/our%20account%20handles%20and%20passwords.md) *(coming soon)*
 
-### File Export
+### Media Management
 - [Exporting to PNG or PDF](File%20Export/exporting%20files%20to%20PNG%20or%20PDF.md) *(coming soon)*
+- [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
 
 ---
 

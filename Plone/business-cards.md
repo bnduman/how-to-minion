@@ -26,8 +26,6 @@ Business cards are simple profile cards that display a person's basic informatio
 - Always remember to include copyright info if there is an image.
 2. Click **Publish**
 
-The business card is now live and displays on the person's profile.
-
 ---
 ## Tips
 
