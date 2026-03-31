@@ -24,7 +24,7 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Account Handles and Passwords](Social%20Media/our%20account%20handles%20and%20passwords.md) *(coming soon)*
 
 ### Media Management
-- [Exporting to PNG or PDF](media-management/convert-png-pdf)
+- [Exporting to PNG or PDF](media-management/convert-png-pdf.md)
 - [Adding Subtitles to Videos](Plone/adding%20subtitles%20to%20videos.md) *(coming soon)*
 
 ---
