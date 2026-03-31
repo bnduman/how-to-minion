@@ -79,10 +79,11 @@ The subtitles should match the video automatically. If they don't:
 1. On the bottom menu, click the **rocket icon** labeled **"Deliver"**
 2. Select **MP4** format
 3. Select **H.264** codec
-4. Scroll down and find **"Subtitle Settings"**
-5. Make sure it's clicked and the correct subtitle track is selected
-6. Click **"Add to Render Queue"**
-7. On the right side, click **"Render All"**
+4. Scroll down to **"Audio"** settings and set the codec to **Mono** — this ensures headphone users hear audio on both sides
+5. Scroll down and find **"Subtitle Settings"**
+6. Make sure it's clicked and the correct subtitle track is selected
+7. Click **"Add to Render Queue"**
+8. On the right side, click **"Render All"**
 ![Screenshot](media-images/davinci5.png)
 Your video with subtitles will now be created.
 ---
