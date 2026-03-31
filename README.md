@@ -5,7 +5,10 @@ A collection of practical guides for BCDSS tools and workflows.
 ## Contents
 
 ### Plone
+- [What Is Plone?](Plone/what-is-plone.md)
 - [Plone Etiquette](plone-etiquette.md)
+- [Creating a Page](Plone/creating-a-page.md)
+- [Adding Images and Files](Plone/adding-images-and-files.md)
 - [Justify Text Paragraphs](Plone/justified%20paragraphs.md)
 - [Adding News and Events](Plone/news-events.md)
 - [Using Anchors](Plone/anchors.md)

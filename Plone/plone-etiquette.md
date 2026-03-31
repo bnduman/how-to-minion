@@ -7,10 +7,10 @@ A few ground rules to keep our website consistent, professional, and easy to mai
 ## The Basics
 
 ### Links always open in a new tab
-Every link you add — whether it's to an external website, a PDF, or another page — should be set to open in a new tab. This way, visitors never lose their place on our site.
+Every link you add (whether it's to an external website, a PDF, or another page) should be set to open in a new tab. This way, visitors never lose their place on our site.
 
 ### Always link our people
-Whenever you mention a fellow, alumnus, or any BCDSS-affiliated person by name, link to their profile page. This keeps our website interconnected and gives our people visibility.
+Whenever you mention someone who has a profile on our website, link them.
 
 ### Always tag your News and Events
 Before you publish, make sure you've added the correct tags. Without them, your post won't appear in the right collection, and nobody will see it.
