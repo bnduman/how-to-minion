@@ -13,15 +13,8 @@ A collection of practical guides for BCDSS tools and workflows.
 - [Creating Business Cards](Plone/business-cards.md)
 - [Adding Footer Links](Plone/footer-links.md)
 
-### Events
-- [Event Promotion Checklist](Events/event%20promotion%20checklist.md) *(coming soon)*
-- [Sending Events to Uni Bonn Main Page](Events/sending%20an%20event%20to%20uni%20bonn%20mainpage.md) *(coming soon)*
-
 ### Blog
 - [Getting Started with Blog](Blog/blog-stuff.md)
-
-### Social Media
-- [Account Handles and Passwords](Social%20Media/our%20account%20handles%20and%20passwords.md) *(coming soon)*
 
 ### Media Management
 - [Exporting to PNG or PDF](Media%20Management/convert-png-pdf.md)
@@ -42,3 +35,4 @@ If you have questions or spot an error, let me know and I'll update the guide.
 ## Last Updated
 
 March 2026
+"C:\Users\BCDSSStudent\Downloads\git\how-to-minion\Media Management\convert-png-pdf"

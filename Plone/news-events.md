@@ -98,6 +98,12 @@ Save! Always let Cecile or Laura take a look before making it public.
 
 ---
 
+### UniBonn Events
+
+Remember to send our open events to https://www.uni-bonn.de/de/veranstaltungen as well. Follow the link and click on **Veranstaltung eintragen** (the website language must be German) 
+
+---
+
 ## Important Notes
 
 - **Tags are case-sensitive:** `News` is different from `news`. Use the exact tags listed above.
