@@ -19,7 +19,7 @@ Among the folder neatly created by Laura, find where yours fits.
 2. Select your **Image**.
 
 
-> ⚠️ **Always fill in the copyright field.** An image with missing copyright information can break the page or the content. If you're unsure about the source, check with the person who provided the image before uploading.
+> ⚠️ **Always fill in the copyright field.** An image with missing copyright information can break the page or the content. If you're unsure about the source, you can type in "BCDSS", but ideally we should have a person's name.
 
 ---
 
