@@ -6,6 +6,7 @@
 
 ## What You'll Need
 
+<<<<<<< HEAD
 Click either link below and the file downloads straight to your computer. Work from those rather than starting from scratch.
 
 | Document | What it is | How often |
@@ -14,6 +15,14 @@ Click either link below and the file downloads straight to your computer. Work f
 | [⬇ Exportabwicklung_Antrag_BCDSS_Adressen.xlsx](https://raw.githubusercontent.com/bnduman/how-to-minion/main/DEPENDENT/dependent-forms/Exportabwicklung_Antrag_BCDSS_Adressen.xlsx) | Empty template for the addressee list, with two example rows | Once, all addresses in one sheet |
 
 > 💡 The files land in your **Downloads** folder. If your browser asks whether to keep the file, say yes — Excel files from an unknown website always get that warning.
+=======
+Both documents are in this folder. Download them and work from those rather than starting from scratch.
+
+| Document | What it is | How often |
+|---|---|---|
+| [Exportabwicklung_Antrag_BCDSS.xlsx](dependent-forms/Exportabwicklung_Antrag_BCDSS.xlsx) | Application for export of goods, pre-filled from the last mailing | **Once** for the whole mailing |
+| [Exportabwicklung_Antrag_BCDSS_Adressen.xlsx](dependent-forms/Exportabwicklung_Antrag_BCDSS_Adressen.xlsx) | Empty template for the addressee list, with two example rows | Once, all addresses in one sheet |
+>>>>>>> caaa17c4e6b921f1efbcaa1037fe9c161dd11870
 
 ---
 
