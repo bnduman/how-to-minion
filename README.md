@@ -21,6 +21,9 @@ A collection of practical guides for BCDSS tools and workflows.
 ### Blog
 - [Getting Started with Blog](Blog/blog-stuff.md)
 
+### DEPENDENT
+- [Sending DEPENDENT to International Addressees](DEPENDENT/sending-dependent-abroad.md)
+
 ### Media Management
 - [Exporting to PNG or PDF](Media%20Management/convert-png-pdf.md)
 - [Adding Subtitles to Videos](Media%20Management/subtitles.md)
@@ -40,4 +43,4 @@ If you have questions or spot an error, let me know and I'll update the guide.
 
 ## Last Updated
 
-March 2026
+August 2026
